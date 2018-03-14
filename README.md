@@ -9,7 +9,7 @@ The first two show polynomials. The polynomial's degree is the number of Riemann
 The next image shows a frame from an animation of a Taylor approximation of the exponential function, where the approximation order isn't limited to discrete natural numbers. 
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 
-These images represents the zeros of a countable sum of exponentials tending towards a line. 
+These images represent the zeros of a countable sum of exponentials tending towards a line. 
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
 
