@@ -19,13 +19,21 @@ The two images below utilize a Moore curve to represent time for a week and year
 ![Image of ExpZeros](https://tauself.github.io/Weekly.png)
 ![Image of ExpZeros](https://tauself.github.io/Yearly.png)
 
+
+The animations below show the exponential function.
+![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
+![Alt Text](https://tauself.github.io/ezgif-5-c935454d75.gif)
+
+
 '''
 You can use the [editor on GitHub](https://github.com/tauself/tauself.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<video src="https://tauself.github.io/exp_animation9.mp4" width="320" height="200" controls preload></video>
+
+
+
 
 ### Markdown
 
