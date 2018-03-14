@@ -15,7 +15,7 @@ This image represents the zeros of a countable sum of exponentials tending towar
 
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
 
-The two images below utilize a Moore curve to represent time for a week and year. The shading for the weekly represents day and night, and the shading for the yearly represents the moon phase cycles.
+The two images below utilize a Moore curve to represent time for a week and year. The shading for the weekly represents day and night, and the shading for the yearly represents the lunar cycle.
 ![Image of ExpZeros](https://tauself.github.io/Weekly.png)
 ![Image of ExpZeros](https://tauself.github.io/Yearly.png)
 
