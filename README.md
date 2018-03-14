@@ -9,8 +9,9 @@ The first two show polynomials. The polynomial's degree is the number of Riemann
 The next image shows a frame from an animation of a Taylor approximation of the exponential function, where the approximation order isn't limited to discrete natural numbers. 
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 
-This image represents the zeros of a countable sum of exponentials tending towards a line. 
+These images represents the zeros of a countable sum of exponentials tending towards a line. 
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
+![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
 
 The two images below utilize a Moore curve to represent time for a week and year. The shading for the weekly represents day and night, and the shading for the yearly represents the lunar cycle.
 ![Image of ExpZeros](https://tauself.github.io/Weekly.png)
