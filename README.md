@@ -3,8 +3,11 @@
 You can use the [editor on GitHub](https://github.com/tauself/tauself.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<img src="https://github.com/tauself/tauself.github.io/blob/master/Quadratic.pdf" >  
-![Image of Yaktocat](https://tauself.github.io/Quadratic.png)
+![Image of Quadratic](https://tauself.github.io/Quadratic.png)
+![Image of Quartic](https://tauself.github.io/Quartic.png)
+![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
+![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
