@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image of Quartic](https://tauself.github.io/Quartic.png)
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
-![Image of ExpZeros](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
+![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
+
 
 <video src="https://tauself.github.io/exp_animation9.mp4" width="320" height="200" controls preload></video>
 
