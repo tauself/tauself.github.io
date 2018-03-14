@@ -2,7 +2,7 @@
 
 Below I've included images from projects I've been working on involving complex numbers. Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
 
-The first two show polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The images show the coefficients and zeros of the polynomials.
+The first two show polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The images represent the coefficients and zeros of the polynomials.
 
 ![Image of Quadratic](https://tauself.github.io/Quadratic.png)
 ![Image of Quartic](https://tauself.github.io/Quartic.png)
@@ -20,7 +20,7 @@ The two images below utilize a Moore curve to represent time for a week and year
 ![Image of ExpZeros](https://tauself.github.io/Yearly.png)
 
 
-The animations below show the exponential function.
+The animations below relate to the exponential function.
 ![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
 ![Alt Text](https://tauself.github.io/ezgif-5-c935454d75.gif)
 
