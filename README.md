@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
 
-<video src="tauself.github.io/exp_animation9.mp4" width="320" height="200" controls preload></video>
+<video src="https://tauself.github.io/exp_animation9.mp4" width="320" height="200" controls preload></video>
 
 
 ### Markdown
