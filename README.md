@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](<img src="tauself.github.io/Quadratic.pdf">)
+[Link](url) and ![Image](tauself.github.io/Quadratic.pdf)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
