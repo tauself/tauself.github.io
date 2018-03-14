@@ -11,7 +11,7 @@ The next image shows a frame from an animation of a Taylor approximation of the 
 
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 
-This image shows the zeros of a countable sum of exponentials tending towards a line. 
+This image represents the zeros of a countable sum of exponentials tending towards a line. 
 
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
 
