@@ -21,7 +21,7 @@ The animations below relate to the exponential function.
 ![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
 ![Alt Text](https://tauself.github.io/ezgif-5-c935454d75.gif)
 
-Bandwidths of visible light and hearing range:
+Bandwidths of visible light and hearing range octaves:
 ![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
 
 Output of code that outputs this image. Soon to include flow denoting arguments/parameters etc.
