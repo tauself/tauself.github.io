@@ -27,9 +27,12 @@ Bandwidths of visible light and hearing range:
 Output of code that outputs this image:
 ![](https://tauself.github.io/Unknown-584.png)
 
-Space-Filling Curve
+Space-Filling Curve:
 ![I](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.56.06.png)
 
 Primes along a Moore curve:
 ![](https://tauself.github.io/Unknown-200.png)
+
+Recursion:
+![](https://tauself.github.io/Unknown-195.png)
 
