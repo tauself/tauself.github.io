@@ -24,5 +24,5 @@ The animations below relate to the exponential function.
 Bandwidths of visible light and hearing range:
 ![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
 
-Output of code that outputs this image:
-![Image of ExpZeros](https://tauself.github.io/Unknown-584.png)
+Space-Filling Curve
+![Image of ExpZeros](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.56.06.png)
