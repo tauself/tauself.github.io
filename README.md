@@ -33,6 +33,5 @@ Space-Filling Curve:
 Primes along a Moore curve:
 ![](https://tauself.github.io/Unknown-200.png)
 
-Recursion:
-![](https://tauself.github.io/Unknown-195.png)
+
 
