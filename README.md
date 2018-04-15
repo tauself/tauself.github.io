@@ -26,6 +26,7 @@ Bandwidths of visible light and hearing range octaves:
 
 Output of code that outputs this image. Soon to include flow denoting arguments/parameters etc.
 ![](https://tauself.github.io/Unknown-584.png)
+![](https://tauself.github.io/Unknown-610.png)
 
 Space-Filling Curve:
 ![I](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.56.06.png)
