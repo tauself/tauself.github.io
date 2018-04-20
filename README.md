@@ -42,7 +42,7 @@ Current Projects:
 
 -Created a functioning script that takes a directory path with images and .ics calendar events, and displays them for a specified time interval, placing the photos and events at the correct timestamp for the correct duration. The display is a Hilbert curve, which represents moments that are close in time as close in space. One benefit is that the end of a week or month is not disjoint from the next moment in time. Another benefit is that the area of the displayed event is directly proportional to the duration, rather than independent lengths for the two axes. In progress is adjustments on the aesthetic design of the display, including parameterizing parts of the space-filling curve. Another goal is to incorporate functions that re-map the colors according to one's visible light range. 
 
--Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
+-Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, aligning beliefs and behavior, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
 
 
 Future Work:
@@ -54,6 +54,8 @@ Future Work:
 -Work on hyperoperators. 
 
 -A dating app.
+
+-Cryptocurrencies for rewarding good sustainably.
 
 
 
