@@ -36,7 +36,7 @@ Primes along a Moore curve:
 
 ![](https://tauself.github.io/Unknown-131.png)
 ![](https://tauself.github.io/Unknown-192.png)
-![](https://tauself.github.io/Screen\ Shot\ 2018-03-29\ at\ 08.57.11.png)
+![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
 
 
