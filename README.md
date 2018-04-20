@@ -59,10 +59,13 @@ Future Work:
 
 Donations:
 
+If your favorite logarithm base is: e, 2, 10,
+
 ETH: 0xfFD5C91DCe59039212c4107F19dAE81b4ae58F39
 
 BTC: 1M1aK4pms32TNZurHL1RwamxXLcoJjZf6H
 
+LTC: LRJ4t2o7jgAx9TV3Fcf2i2xkv4yFwQq6mg
 
 
 
