@@ -49,7 +49,11 @@ Future Work:
 
 -A display to represent news, communications, current state, and more, in a hierarchical way, so users can both filter out content beyond their space of control, yet incorporating global summaries. 
 
--Cryptocurrencies
+-Cryptocurrencies to reward good.
+
+-A dating app.
+
+-Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, +. 
 
 Donations:
 
