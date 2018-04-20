@@ -53,7 +53,7 @@ Future Work:
 
 -A dating app.
 
--Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, +. 
+-Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, animating and visualizing polynomial roots and coefficients and solving equations given a finite sequence of symbols. 
 
 Donations:
 
