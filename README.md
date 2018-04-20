@@ -57,7 +57,9 @@ Future Work:
 
 -Cryptocurrencies for rewarding good sustainably.
 
-
+Donations:
+ETH: 0xfFD5C91DCe59039212c4107F19dAE81b4ae58F39
+BTC: 1M1aK4pms32TNZurHL1RwamxXLcoJjZf6H
 
 
 
