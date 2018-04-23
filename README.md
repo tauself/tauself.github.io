@@ -50,9 +50,9 @@ Future Work:
 
 -A display to represent news, communications, current state, and more, in a hierarchical way, so users can both filter out content beyond their space of control, yet incorporating global summaries. 
 
--Cryptocurrencies to reward good.
+-Cryptocurrencies to reward good by using appropriate exchange rates for concepts like reputation, or donating to support fractional steps aligned with one's beliefs/values. Algorithms that don't just transfer value, but transform input to create new wealth. Algorithms to detect optimal trades/investments. 
 
--A dating app.
+-A dating app utilizing the unit circle as a space-filling closed loop to represent hypercube vertices and identify relevant subdivisions to frame the intangible. Articulates lateral differences in character emphases.
 
 -Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, animating and visualizing polynomial roots and coefficients and solving equations given a finite sequence of symbols. 
 
