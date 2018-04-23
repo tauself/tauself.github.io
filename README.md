@@ -60,7 +60,7 @@ Future Work:
 
 -Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies.
 
--Transmission systems with security utilizing community-voted weights, costs, and processes.
+-Transmission systems with security utilizing community-voted weights for risk, costs, and processes.
 
 Donations:
 
