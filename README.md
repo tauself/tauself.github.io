@@ -72,6 +72,10 @@ Future Work:
 
 -An alphabet/dictionary of flow topologies.
 
+-Logic modules for functions starting with digital logic, but giving consideration to the relationship between parity and infinity, particularly in regard to complex numbers.
+
+-Theorem proving automation and visualization.
+
 Donations:
 
 If your favorite logarithm base is: e, 2, 10,
