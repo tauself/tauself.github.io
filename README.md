@@ -44,6 +44,7 @@ Current Projects:
 
 -Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, aligning beliefs and behavior, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
 
+-Building tools for tracking progress in establishing new routines and changing old ones. Will take the timestamp from photos, resize new photos and insert into the location corresponding to the present, shifting all past photos down, and resizing their dimensions by half accordingly, like memory. Gaps for times in the period (day, week) of the recurring task when no photo was taken shrink as well over time, and a greater percent of the area of the image is taken up by photos of the completed task. Future goals established in a natural way arriving on the display from infinity. The direction of the long-term average will be towards one. Using a finite number of bits to represent the long-term average may result in reaching 100%. Asymptotically, average cases of performance can be used as canonical representations to display results of different pathways.
 
 Future Work:
 
@@ -54,6 +55,12 @@ Future Work:
 -A dating app.
 
 -Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, animating and visualizing polynomial roots and coefficients and solving equations given a finite sequence of symbols. 
+
+-Conflict resolution algorithm by selecting juries of peers with the appropriate similarities and differences to facilitate resolution.
+
+-Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies.
+
+-Transmission systems with security utilizing community-voted weights, costs, and processes.
 
 Donations:
 
