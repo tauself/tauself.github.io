@@ -58,7 +58,7 @@ Future Work:
 
 -Conflict resolution algorithm by selecting juries of peers with the appropriate similarities and differences to facilitate resolution.
 
--Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies.
+-Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies. Devices that utilize semi-public preferences to suggest actions given beliefs and policies; for example, bluetooth communication between nearby devices to apply values/beliefs/policies to detect optimal mutually beneficial trade options, or security suggestions. Facilitates processing uncertain scenarios in real-time. Designed either without public display of signals or such that tampering with or presenting false signals is suboptimal both in short-term and long-term. 
 
 -Transmission systems with security utilizing community-voted weights for risk, costs, and processes. Should result in a single market without infinite risk or cost, where the frequency of interception and the interception policy is predictable and agreed upon. Zero-tolerance options available based on community demand.
 
