@@ -60,7 +60,7 @@ Future Work:
 
 -Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies.
 
--Transmission systems with security utilizing community-voted weights for risk, costs, and processes.
+-Transmission systems with security utilizing community-voted weights for risk, costs, and processes. Should result in a single market without infinite risk or cost, where the frequency of interception and the interception policy is predictable and agreed upon. Zero-tolerance options available based on community demand.
 
 -An approach to technological unemployment that acknowledges imperfections in systems. The flow of sunlight through society is subdivided hierarchically, so that specialization in quadrants of a space-filling curve from input to output may be repurposed in a corresponding section of finer granularity. Guided by the philosophy that the whole and its parts flourish with each other. Specialization and coordination among parts involves emphasis on a specialty without sacrificing core ability to sustain independent flow/processing. For example, while all parts benefit from balanced specialization, losing entirely the ability to farm or hunt to maintain sustenance corresponds to a society that has entirely automated the basic needs. Perfecting assisted-driving involves a feedback loop with drivers. Since the actions of self-driving vehicles occur over finite time, incremental steps towards automation involve alerting the driver, presenting options, subdividing the time interval to allow the driver to give the vehicle the opportunity to adjust according to the driver's approval, with appropriate time for the driver to override. The order of the sequence of events towards automation matters, and the progress can be tracked and compared to measure improvement. While there is urgency to strive towards perfection, the outcome results from the process, which is embedded with order. To change a simple flow to a more intricate flow, the transition should not involve a step that redirects flow before controlling it. If one works in representation, automation of voting systems would treat workers similarly. 
 
@@ -70,7 +70,7 @@ Future Work:
 
 -Transforming systems with integer states to allow for fractional states to optimize bureaucracy. 
 
--An alphabet/dictionary of flow topologies.
+-An alphabet/dictionary of flow topologies. Analysis of how tuple sequences of bits relate to parity, lateral color, magnitude. Analysis of systems that relate intricacies and richness of lateral color to processes which truncated relate to magnitude. 
 
 -Logic modules for functions starting with digital logic, but giving consideration to the relationship between parity and infinity, particularly in regard to complex numbers.
 
