@@ -68,6 +68,8 @@ Future Work:
 
 -Optimizing natural monopolies.
 
+-Transforming systems with integer states to allow for fractional states to optimize bureaucracy. 
+
 Donations:
 
 If your favorite logarithm base is: e, 2, 10,
