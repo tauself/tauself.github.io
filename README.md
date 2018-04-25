@@ -44,49 +44,14 @@ Current Projects:
 
 -Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, aligning beliefs and behavior, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
 
--Building tools for tracking progress in establishing new routines and changing old ones. Will take the timestamp from photos, resize new photos and insert into the location corresponding to the present, shifting all past photos down, and resizing their dimensions by half accordingly, like memory. Gaps for times in the period (day, week) of the recurring task when no photo was taken shrink as well over time, and a greater percent of the area of the image is taken up by photos of the completed task. Future goals established in a natural way arriving on the display from infinity. The direction of the long-term average will be towards one. Using a finite number of bits to represent the long-term average may result in reaching 100%. Asymptotically, average cases of performance can be used as canonical representations to display results of different pathways.
-
 Future Work:
 
 -A display to represent news, communications, current state, and more, in a hierarchical way, so users can both filter out content beyond their space of control, yet incorporating global summaries. 
 
--Cryptocurrencies to reward good by using appropriate exchange rates for concepts like reputation, or donating to support fractional steps aligned with one's beliefs/values. Algorithms that don't just transfer value, but transform input to create new wealth. Algorithms to detect optimal trades/investments. 
-
--A dating app utilizing the unit circle as a space-filling closed loop to represent hypercube vertices and identify relevant subdivisions to frame the intangible. Articulates lateral differences in character emphases.
-
 -Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, animating and visualizing polynomial roots and coefficients and solving equations given a finite sequence of symbols. 
 
--Conflict resolution algorithm by selecting juries of peers with the appropriate similarities and differences to facilitate resolution.
-
--Algorithm to use community values for addressing hate by utilizing semi-public layers of visibility of beliefs and policies. Devices that utilize semi-public preferences to suggest actions given beliefs and policies; for example, bluetooth communication between nearby devices to apply values/beliefs/policies to detect optimal mutually beneficial trade options, or security suggestions. Facilitates processing uncertain scenarios in real-time. Designed either without public display of signals or such that tampering with or presenting false signals is suboptimal both in short-term and long-term. 
-
--Transmission systems with security utilizing community-voted weights for risk, costs, and processes. Should result in a single market without infinite risk or cost, where the frequency of interception and the interception policy is predictable and agreed upon. Zero-tolerance options available based on community demand.
-
--An approach to technological unemployment that acknowledges imperfections in systems. The flow of sunlight through society is subdivided hierarchically, so that specialization in quadrants of a space-filling curve from input to output may be repurposed in a corresponding section of finer granularity. Guided by the philosophy that the whole and its parts flourish with each other. Specialization and coordination among parts involves emphasis on a specialty without sacrificing core ability to sustain independent flow/processing. For example, while all parts benefit from balanced specialization, losing entirely the ability to farm or hunt to maintain sustenance corresponds to a society that has entirely automated the basic needs. Perfecting assisted-driving involves a feedback loop with drivers. Since the actions of self-driving vehicles occur over finite time, incremental steps towards automation involve alerting the driver, presenting options, subdividing the time interval to allow the driver to give the vehicle the opportunity to adjust according to the driver's approval, with appropriate time for the driver to override. The order of the sequence of events towards automation matters, and the progress can be tracked and compared to measure improvement. While there is urgency to strive towards perfection, the outcome results from the process, which is embedded with order. To change a simple flow to a more intricate flow, the transition should not involve a step that redirects flow before controlling it. If one works in representation, automation of voting systems would treat workers similarly. 
-
--Displaying the costs of free things.
-
--Optimizing natural monopolies.
-
--Transforming systems with integer states to allow for fractional states to optimize bureaucracy. 
-
--An alphabet/dictionary of flow topologies. Analysis of how tuple sequences of bits relate to parity, lateral color, magnitude. Analysis of systems that relate intricacies and richness of lateral color to processes which truncated relate to magnitude. 
-
--Logic modules for functions starting with digital logic, but giving consideration to the relationship between parity and infinity, particularly in regard to complex numbers.
+-An approach to technological unemployment.
 
 -Theorem proving automation and visualization.
 
-Donations:
-
-If your favorite logarithm base is: e, 2, 10,
-
-ETH: 0xfFD5C91DCe59039212c4107F19dAE81b4ae58F39
-
-BTC: 1M1aK4pms32TNZurHL1RwamxXLcoJjZf6H
-
-LTC: LRJ4t2o7jgAx9TV3Fcf2i2xkv4yFwQq6mg
-
-
-
-
-
+-And more.
