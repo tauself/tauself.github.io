@@ -6,16 +6,12 @@ The first two relate to polynomials. The polynomial's degree is the number of Ri
 ![Image of Quadratic](https://tauself.github.io/Quadratic.png)
 ![Image of Quartic](https://tauself.github.io/Quartic.png)
 
-The next image shows a frame from an animation through Taylor approximations of the exponential function, where the approximation order isn't limited to discrete natural numbers. 
+The next image shows a Taylor approximation of the exponential function, where the approximation order isn't limited to natural numbers. 
 ![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
 
 These images show the behavior of the zeros of a sum of exponentials. 
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
-
-The two images below utilize a Moore curve to represent time for a week and year. The shading for the weekly represents day and night, and the shading for the yearly represents the lunar cycle.
-![Image of ExpZeros](https://tauself.github.io/Weekly.png)
-![Image of ExpZeros](https://tauself.github.io/Yearly.png)
 
 The animations below relate to the exponential function.
 ![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
@@ -24,7 +20,7 @@ The animations below relate to the exponential function.
 Bandwidths of visible light and hearing range octaves:
 ![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
 
-Output of code that outputs this image. Soon to include flow denoting arguments/parameters etc.
+Output of code that outputs this image. Flow denoting arguments/parameters.
 ![](https://tauself.github.io/Unknown-584.png)
 ![](https://tauself.github.io/Unknown-610.png)
 
