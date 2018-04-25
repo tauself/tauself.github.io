@@ -30,7 +30,10 @@ Space-Filling Curve:
 Primes along a Moore curve:
 ![](https://tauself.github.io/Unknown-200.png)
 
-![](https://tauself.github.io/Unknown-192.png) 
+A weekly calendar:
+![](https://tauself.github.io/Unknown-192.png)
+
+Artwork:
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
 Current Projects:
