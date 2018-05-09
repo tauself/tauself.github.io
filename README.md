@@ -36,6 +36,10 @@ A weekly calendar:
 Artwork:
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
+Animation resembling orbitals:
+![Alt Text](https://http://tauself.github.io/cycle051818_79.mp4)
+
+
 Current Projects:
 
 -Created a functioning script that takes a directory path with images and .ics calendar events, and displays them for a specified time interval, placing the photos and events (including recurring) at the correct timestamp for the correct duration. The display is a Hilbert curve, which represents moments that are close in time as close in space. One benefit is that the end of a week or month is not disjoint from the next moment in time. Another benefit is that the area of the displayed event is directly proportional to the duration, rather than independent lengths for the two axes. This facilitates developing intuition for relative durations of time, by representing time in the same 2-dimensional display where physical objects are observed. In progress is adjustments on the aesthetic design of the display, including parameterizing parts of the space-filling curve. Another goal is to incorporate functions that re-map the colors according to one's visible light range. 
