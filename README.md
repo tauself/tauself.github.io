@@ -60,4 +60,10 @@ Future Work:
 
 -Theorem proving automation and visualization.
 
+-Jury selection and conflict resolution algorithms.
+
+-Semi-public layers of visibility and community voted weights/values for transmission of information and risk management.
+
+-Blockchain applications incentivising sustainable cooperation.
+
 -More.
