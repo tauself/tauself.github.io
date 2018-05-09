@@ -36,6 +36,9 @@ A weekly calendar:
 Artwork:
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
+Animation resembling orbitals.
+![](https://tauself.github.io/cycle051818_79.mp4)
+
 
 
 
