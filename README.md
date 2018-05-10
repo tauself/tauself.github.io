@@ -40,6 +40,8 @@ Animations resembling orbitals.
 ![](https://tauself.github.io/cycle051818_79.mp4)
 ![](https://tauself.github.io/cycle051818_83.mp4)
 ![](https://tauself.github.io/cycle051818_102.mp4)
+<video src="cycle051818_79.mp4" width="320" height="200" controls preload></video>
+
 
 
 
