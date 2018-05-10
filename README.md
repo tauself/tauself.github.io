@@ -36,13 +36,12 @@ A weekly calendar:
 Artwork:
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
-Animations resembling orbitals. (Visible at least in non-mobile safari.)
-https://tauself.github.io/cycle051818_79.mp4
+Animations resembling orbitals.
 ![](https://tauself.github.io/cycle051818_79.mp4)
-https://tauself.github.io/cycle051818_83.mp4
 ![](https://tauself.github.io/cycle051818_83.mp4)
-https://tauself.github.io/cycle051818_102.mp4
 ![](https://tauself.github.io/cycle051818_102.mp4)
+![](https://tauself.github.io/cycle051818_2.mp4)
+![](https://tauself.github.io/cycle051818_17.mp4)
 
 
 
