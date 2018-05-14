@@ -54,20 +54,4 @@ Current Projects:
 
 -Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, aligning beliefs and behavior, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
 
-Future Work:
 
--A display to represent news, communications, current state, and more, in a hierarchical way, so users can both filter out content beyond their space of control, yet incorporating global summaries. 
-
--Work on hyperoperations, flow, addition of complex numbers, visualizing limit distributions of simulated dynamics, animating and visualizing polynomial roots and coefficients and solving equations given a finite sequence of symbols. 
-
--An approach to technological unemployment.
-
--Theorem proving automation and visualization.
-
--Jury selection and conflict resolution algorithms.
-
--Semi-public layers of visibility and community voted weights/values for transmission of information and risk management.
-
--Blockchain applications incentivising sustainable cooperation.
-
--More.
