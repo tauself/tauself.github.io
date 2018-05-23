@@ -32,6 +32,7 @@ Primes along a Moore curve:
 
 A weekly calendar:
 ![](https://tauself.github.io/Unknown-192.png)
+![](https://tauself.github.io/Weekly.png)
 
 1/e offset. 
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
