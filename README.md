@@ -38,12 +38,12 @@ A weekly calendar:
 ![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
 
 Animations resembling orbitals.
-![](https://tauself.github.io/cycle051818_79.mp4)
-![](https://tauself.github.io/cycle051818_83.mp4)
-![](https://tauself.github.io/cycle051818_102.mp4)
-![](https://tauself.github.io/cycle051818_2.mp4)
-![](https://tauself.github.io/cycle051818_17.mp4)
-![](https://tauself.github.io/cycle051818_85.mp4)
+![](https://tauself.github.io/ezgif-5-5c4fbbc821-2.gif)
+![](https://tauself.github.io/ezgif-5-7a5e07277a-2.gif)
+![](https://tauself.github.io/ezgif-5-8fc1f0169b.gif)
+![](https://tauself.github.io/ezgif-5-ae62f92e48.gif)
+![](https://tauself.github.io/ezgif-5-b6f12bcb96.gif)
+![](https://tauself.github.io/ezgif-5-f107764e22.gif)
 
 
 
