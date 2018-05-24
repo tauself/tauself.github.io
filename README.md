@@ -55,9 +55,5 @@ Current Projects:
 
 ![](https://tauself.github.io/Unknown-821.png)
 
--Created a script to visualize source code or trees in general in a space-filling way. This can facilitate recognizing redundancies, as well as understanding the general topology. One part can aid a user in displaying thoughts hierarchically for task management. In progress is a complete organizational system to facilitate identifying beliefs, evaluating beliefs, aligning beliefs and behavior, generating goals and tasks from beliefs, scheduling tasks on the calendar, and recording memories/observations in the same calendar space.
-
-![](https://tauself.github.io/Unknown-485.png)
-![](https://tauself.github.io/Unknown-802.png)
 
 
