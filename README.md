@@ -49,6 +49,7 @@ Animations resembling orbitals.
 
 
 
+
 Current Projects:
 
 -Created a script that takes a directory path with images and .ics calendar events, and displays them for a specified time interval, placing the photos and events (including recurring) at the timestamp for the corresponding duration. The display is a space-filling curve, which represents moments that are close in time as close in space, so that ends of adjacent weeks or months are not disjoint. Also, the area of the displayed event is directly proportional to the duration.
@@ -58,6 +59,6 @@ Current Projects:
 ![](https://tauself.github.io/Unknown-850.png)
 ![](https://tauself.github.io/Unknown-903.png)
 ![](https://tauself.github.io/Unknown-1046.png)
-
+![](https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif)
 
 
