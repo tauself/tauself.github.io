@@ -16,6 +16,7 @@ These images show the behavior of the zeros of a sum of exponentials.
 The animations below relate to the exponential function.
 ![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
 ![Alt Text](https://tauself.github.io/ezgif-5-c935454d75.gif)
+<img src="https://tauself.github.io/ezgif-5-a17819ac3b.gif" width=40%>
 
 Bandwidths of visible light and hearing range octaves:
 ![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
