@@ -73,7 +73,7 @@ Created a script that takes a directory path with images and .ics calendar event
 
 Task Completion Performance Tracking. Green is good, red is not yet good.
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Unknown-1121.png">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-1136.png">
 </p>
 
 Beginning of display for visualizing state transitions and possible actions.
