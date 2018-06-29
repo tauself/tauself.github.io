@@ -11,7 +11,10 @@ The displays are intended to be panels on a personal dashboard, integrated with 
 Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
 
 The first one relates to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The image represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
-![Image of Quartic](https://tauself.github.io/Quartic.png)
+
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/Quartic.png">
+</p>
 
 This animation relates to continuous Taylor approximations of the exponential function 
 
@@ -20,27 +23,36 @@ This animation relates to continuous Taylor approximations of the exponential fu
 </p>
 
 This image shows the behavior of the zeros of a sum of exponentials. 
-![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ExpZeros2.png">
+</p>
+
 
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-c935454d75.gif">
 </p>
 
 Bandwidths of visible light and hearing range octaves:
-![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/LightAndSound.png">
+</p>
 
 Code that visualizes itself.
-![](https://tauself.github.io/Unknown-584.png)
+<p align="center">
+  <img width="300" height="300" src="Unknown-584.png">
+</p>
+
 Flow denoting arguments/parameters.
-![](https://tauself.github.io/Unknown-610.png)
+<p align="center">
+  <img width="300" height="300" src="Unknown-610.png">
+</p>
 
 A weekly calendar:
-![](https://tauself.github.io/Weekly.png)
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/Weekly.png">
+</p>
 
 Animations resembling orbitals.
-![](https://tauself.github.io/ezgif-5-8fc1f0169b.gif)
-![](https://tauself.github.io/ezgif-5-ae62f92e48.gif)
-![](https://tauself.github.io/ezgif-5-f107764e22.gif)
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
 </p>
