@@ -14,15 +14,12 @@ These images show the behavior of the zeros of a sum of exponentials.
 ![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
 
 The animations below relate to the exponential function.
-![Alt Text](https://tauself.github.io/ezgif-5-a17819ac3b.gif)
-![Alt Text](https://tauself.github.io/ezgif-5-c935454d75.gif)
-<img src="https://tauself.github.io/ezgif-5-a17819ac3b.gif" width=40%>
-<p align="center">
-  <img width="460" height="300" src="https://tauself.github.io/ezgif-5-a17819ac3b.gif/460/300">
-</p>
 
 <p align="center">
-  <img width="460" height="300" src="https://tauself.github.io/ezgif-5-a17819ac3b.gif">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-a17819ac3b.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-c935454d75.gif">
 </p>
 
 Bandwidths of visible light and hearing range octaves:
@@ -66,13 +63,25 @@ Animations resembling orbitals.
 ![](https://tauself.github.io/Unknown-838.png)
 ![](https://tauself.github.io/Unknown-850.png)
 ![](https://tauself.github.io/Unknown-903.png)
-![](https://tauself.github.io/Unknown-1121.png)
-![](https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif)
-![](https://tauself.github.io/ezgif-2-0d206eb20c.gif)
-![](https://tauself.github.io/ezgif-1-179972c44b.gif)
-![](https://tauself.github.io/ezgif-5-a3802d6326.gif)
-![](https://tauself.github.io/ezgif-2-21e962711b.gif)
 
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-1121.png">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-2-0d206eb20c.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-1-179972c44b.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-a3802d6326.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-2-21e962711b.gif">
+</p>
 
 
 
