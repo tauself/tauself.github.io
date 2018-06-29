@@ -27,11 +27,6 @@ This image shows the behavior of the zeros of a sum of exponentials.
   <img width="300" height="300" src="https://tauself.github.io/ExpZeros2.png">
 </p>
 
-
-<p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-c935454d75.gif">
-</p>
-
 Bandwidths of visible light and hearing range octaves:
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/LightAndSound.png">
