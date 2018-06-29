@@ -70,13 +70,13 @@ Animations resembling orbitals.
 
 
 <p align="center">
-  <img src="https://tauself.github.io/Unknown-838.png">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-838.png">
 </p>
 <p align="center">
-  <img src="https://tauself.github.io/Unknown-850.png">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-850.png">
 </p>
 <p align="center">
-  <img src="https://tauself.github.io/Unknown-1121.png">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-1121.png">
 </p>
 <p align="center">
   <img src="https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif">
