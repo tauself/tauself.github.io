@@ -10,22 +10,18 @@ The displays are intended to be panels on a personal dashboard, integrated with 
 
 Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
 
-The first two relate to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The images represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
-![Image of Quadratic](https://tauself.github.io/Quadratic.png)
+The first one relates to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The image represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
 ![Image of Quartic](https://tauself.github.io/Quartic.png)
 
-The next image shows a Taylor approximation of the exponential function, where the approximation order isn't limited to natural numbers. 
-![Image of ExpTaylorFrame](https://tauself.github.io/ExpTaylorFrame.png)
-
-These images show the behavior of the zeros of a sum of exponentials. 
-![Image of ExpZeros](https://tauself.github.io/ExpZeros.png)
-![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
-
-The animations below relate to the exponential function.
+This animation relates to continuous Taylor approximations of the exponential function 
 
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-a17819ac3b.gif">
 </p>
+
+This image shows the behavior of the zeros of a sum of exponentials. 
+![Image of ExpZeros](https://tauself.github.io/ExpZeros2.png)
+
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-c935454d75.gif">
 </p>
@@ -33,15 +29,10 @@ The animations below relate to the exponential function.
 Bandwidths of visible light and hearing range octaves:
 ![Image of ExpZeros](https://tauself.github.io/LightAndSound.png)
 
-Output of code that outputs this image. Flow denoting arguments/parameters.
+Code that visualizes itself.
 ![](https://tauself.github.io/Unknown-584.png)
+Flow denoting arguments/parameters.
 ![](https://tauself.github.io/Unknown-610.png)
-
-Space-Filling Curve:
-![I](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.56.06.png)
-
-Primes along a Moore curve:
-![](https://tauself.github.io/Unknown-200.png)
 
 A weekly calendar:
 ![](https://tauself.github.io/Weekly.png)
@@ -59,8 +50,6 @@ Animations resembling orbitals.
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-f107764e22.gif">
 </p>
-
-
 
 
 ## Current Projects:
