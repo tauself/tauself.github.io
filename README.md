@@ -1,6 +1,14 @@
 ## Welcome to Mark Rosenberg's page.
 
-Below I've included images from projects I've been working on involving complex numbers. Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
+The following images and gifs show python output on a variety of topics related to complex numbers.
+
+The early work has to do with visualizing complex functions. The initial motivation was for number theory proofs. Then, if everything is proved, what follows? Choice and action. Given the rules (state transition dynamics), what is the optimal policy (function that outputs action given state). Treating quantities as continuous rather than discrete leads to intractable integrals, but with a discrete finite number of bits, there are only so many policies.
+
+The displays are intended to be panels on a personal dashboard, integrated with a calendar and other features, so that individuals can have a visual display on their local devices to interact with their beliefs, goals, schedule, and more. The software in turn may shape one's thinking as an external location for cognitive computations. If individuals can become more efficient in evaluating and updating their beliefs, then increased sustainability should follow. The design of these tools down to the order they were built and even the order of adding lines of code is generally done in a way so that changes to a flowing system are not abrupt, and so that users are empowered to improve sustainably.
+
+### Complex Numbers
+
+Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
 
 The first two relate to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The images represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
 ![Image of Quadratic](https://tauself.github.io/Quadratic.png)
@@ -36,21 +44,21 @@ Primes along a Moore curve:
 ![](https://tauself.github.io/Unknown-200.png)
 
 A weekly calendar:
-![](https://tauself.github.io/Unknown-192.png)
 ![](https://tauself.github.io/Weekly.png)
 
-1/e offset. 
-![](https://tauself.github.io/Screen%20Shot%202018-03-29%20at%2008.57.11.png)
-
 Animations resembling orbitals.
-![](https://tauself.github.io/ezgif-5-5c4fbbc821-2.gif)
-![](https://tauself.github.io/ezgif-5-7a5e07277a-2.gif)
 ![](https://tauself.github.io/ezgif-5-8fc1f0169b.gif)
 ![](https://tauself.github.io/ezgif-5-ae62f92e48.gif)
-![](https://tauself.github.io/ezgif-5-b6f12bcb96.gif)
 ![](https://tauself.github.io/ezgif-5-f107764e22.gif)
-
-
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-ae62f92e48.gif">
+</p>
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-f107764e22.gif">
+</p>
 
 
 
