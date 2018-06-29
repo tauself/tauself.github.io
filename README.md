@@ -70,21 +70,33 @@ Animations resembling orbitals.
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/Unknown-850.png">
 </p>
+
+Task Completion Performance Tracking. Green is good, red is not yet good.
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/Unknown-1121.png">
 </p>
+
+Beginning of display for visualizing state transitions and possible actions.
 <p align="center">
   <img src="https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif">
 </p>
+
+24 hours in a day
 <p align="center">
   <img src="https://tauself.github.io/ezgif-2-0d206eb20c.gif">
 </p>
+
+7 days in a week
 <p align="center">
   <img src="https://tauself.github.io/ezgif-1-179972c44b.gif">
 </p>
+
+12 months in a year. Color denoting seasons.
 <p align="center">
   <img src="https://tauself.github.io/ezgif-5-a3802d6326.gif">
 </p>
+
+Video processing to visualize causal flow.
 <p align="center">
   <img src="https://tauself.github.io/ezgif-2-21e962711b.gif">
 </p>
