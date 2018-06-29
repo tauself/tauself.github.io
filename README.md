@@ -74,22 +74,22 @@ Animations resembling orbitals.
 ![](https://tauself.github.io/Unknown-903.png)
 
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Unknown-1121.png">
+  <img src="https://tauself.github.io/Unknown-1121.png">
 </p>
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif">
+  <img src="https://tauself.github.io/ezgif-3-b6ca5bd6ae.gif">
 </p>
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-2-0d206eb20c.gif">
+  <img src="https://tauself.github.io/ezgif-2-0d206eb20c.gif">
 </p>
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-1-179972c44b.gif">
+  <img src="https://tauself.github.io/ezgif-1-179972c44b.gif">
 </p>
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-a3802d6326.gif">
+  <img src="https://tauself.github.io/ezgif-5-a3802d6326.gif">
 </p>
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-2-21e962711b.gif">
+  <img src="https://tauself.github.io/ezgif-2-21e962711b.gif">
 </p>
 
 
