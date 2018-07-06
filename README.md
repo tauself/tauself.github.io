@@ -10,7 +10,7 @@ The displays are intended to be panels on a personal dashboard, integrated with 
 
 Visualizing complex functions is a step towards solving intractable integrals, whose analytic solutions can be used for optimization. 
 
-The first one relates to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The image represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
+The first image relates to polynomials. The polynomial's degree is the number of Riemann sheets in the domain and the number of non-trivial coefficients. The image represent the coefficients and zeros of the polynomials. By considering the coefficients in the same space as the roots, the coefficients are centroids of n-simplices in a hypercube topology defined by the roots. When the roots are clustered together, the coefficients have an angular component shown on the x-axis close to multiples of the root angles.
 
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/Quartic.png">
@@ -71,9 +71,9 @@ Created a script that takes a directory path with images and .ics calendar event
   <img width="300" height="300" src="https://tauself.github.io/Unknown-850.png">
 </p>
 
-Task Completion Performance Tracking. Green is good, red is not yet good.
+Task Completion Performance Tracking. Green is good, red is not yet good. 6 days per week.
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Unknown-1136.png">
+  <img width="300" height="300" src="https://tauself.github.io/Unknown-1171.png">
 </p>
 
 Beginning of display for visualizing state transitions and possible actions.
