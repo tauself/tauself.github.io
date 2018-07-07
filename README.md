@@ -2,9 +2,9 @@
 
 The following images and gifs show python output on a variety of topics related to complex numbers.
 
-The early work has to do with visualizing complex functions. The initial motivation was for number theory proofs. Then, if everything is proved, what follows? Choice and action. Given the rules (state transition dynamics), what is the optimal policy (function that outputs action given state). Treating quantities as continuous rather than discrete leads to intractable integrals, but with a discrete finite number of bits, there are only so many policies.
+The primary concept is as follows. The goal is optimization of a system. The system operates by the state transition rules, and at each state a policy maps the state to an action. One step in finding the optimal policy involves integration. The work investigates algorithms for the integration and computing the optimal action given the observations. The optimal policy is completely specified by the given information. The given information is represented by a configuration of finitely many bits organized in a particular way that denotes the meaning of the bits. The optimal policy has a form that is symmetric to this. It can also be represented with a finite number of bits. My research investigates number theory proofs to build computing concepts. For example, the concept of zero is more bulky than the concept of one, because zero is made up from one and its opposite (negative one) in a closed loop. Conventional notation can obscure meaning by using symbols like the negative sign or the imaginary unit. Negative one's earliest emergence seems to be as the simplest concept that solves f(f(x))=x and f(x) != x.
 
-The displays are intended to be panels on a personal dashboard, integrated with a calendar and other features, so that individuals can have a visual display on their local devices to interact with their beliefs, goals, schedule, and more. The software in turn may shape one's thinking as an external location for cognitive computations. The design of these tools down to the order they were built and even the order of adding lines of code is generally done in a way so that changes to a flowing system are not abrupt.
+After sufficient exploration of the building blocks, I focused less on proving number theory results, and more on building tools for individuals to make more efficient decisions. Time is a central concept (a relationship between moments of the type 'not' with direction etc.), so I built a display panel with calendar features revolving around a representation of time as a space-filling curve. Among it's many aspects is the idea that the area and shape of events becomes more tangible, and the framework of bits becomes more familiar so that users develop intuition for the nature of decisions. One goal is a personal dashboard so that individuals can have a visual display on their local devices to interact with their beliefs, goals, schedule, and more. The software in turn may shape one's thinking as an external location for cognitive computations. The design of these tools down to the order they were built and even the order of adding lines of code is generally done in a way so that changes to a flowing system are not abrupt.
 
 ### Complex Numbers
 
@@ -40,22 +40,6 @@ Code that visualizes itself.
 Flow denoting arguments/parameters.
 <p align="center">
   <img width="300" height="300" src="Unknown-610.png">
-</p>
-
-A weekly calendar:
-<p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Weekly.png">
-</p>
-
-Animations resembling orbitals.
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
-</p>
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-5-ae62f92e48.gif">
-</p>
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-5-f107764e22.gif">
 </p>
 
 
@@ -100,6 +84,10 @@ Video processing to visualize causal flow.
 <p align="center">
   <img src="https://tauself.github.io/ezgif-2-21e962711b.gif">
 </p>
+
+
+Other projects: 
+-Natural Language Processing analysis to determine most frequently used words/expressions.
 
 
 
