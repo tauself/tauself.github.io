@@ -25,7 +25,7 @@ This image shows the behavior of the zeros of a sum of exponentials.
 
 Bandwidths of visible light and hearing range octaves:
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/LightAndSound.png">
+  <img width="300" height="300" src="https://tauself.github.io/bandwidths.png"> #LightAndSound.png">
 </p>
 
 ## Current Projects:
