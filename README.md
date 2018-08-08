@@ -30,11 +30,11 @@ Bandwidths of visible light and hearing range octaves:
 
 Animations of configurations of bits:
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
+  <img src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-f107764e22.gif">
+  <img src="https://tauself.github.io/ezgif-5-f107764e22.gif">
 </p>
 
 ## Current Projects:
