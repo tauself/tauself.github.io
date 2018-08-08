@@ -28,6 +28,15 @@ Bandwidths of visible light and hearing range octaves:
   <img width="300" height="300" src="https://tauself.github.io/bandwidths.png">
 </p>
 
+Animations of configurations of bits:
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
+</p>
+
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-f107764e22.gif">
+</p>
+
 ## Current Projects:
 
 Created a script that takes a directory path with images and .ics calendar events, and displays them for a specified time interval, placing the photos and events (including recurring) at the timestamp for the corresponding duration. The display is a space-filling curve, which represents moments that are close in time as close in space, so that ends of adjacent weeks or months are not disjoint. Also, the area of the displayed event is directly proportional to the duration.
