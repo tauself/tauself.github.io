@@ -18,7 +18,7 @@ This animation relates to continuous Taylor approximations of the exponential fu
   <img width="300" height="300" src="https://tauself.github.io/ezgif-5-a17819ac3b.gif">
 </p>
 
-This image shows the behavior of the zeros of a sum of exponentials. This relates to the Riemann Hypothesis.
+This image shows the behavior of the zeros of a sum of exponentials. This relates to the constructive proof of the Riemann Hypothesis.
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ExpZeros2.png">
 </p>
