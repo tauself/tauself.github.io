@@ -72,5 +72,5 @@ Created a script that takes a directory path with images and .ics calendar event
 </p>
 
 <p align="center">
-  <img src="https://tauself.github.io/Screen%20Shot%202018-12-27%20at%2017.19.10.png">
+  <img src="https://tauself.github.io/Screen%20Shot%202018-12-27%20at%2017.30.29.png">
 </p>
