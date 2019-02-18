@@ -2,10 +2,17 @@
 
 ## Personal Executive Dashboards, Calendars, and Complex Numbers.
 
+Primes on a Hilbert curve:
+<p align="center">
+  <img src="https://tauself.github.io/HilbertPrimes.png">
+</p>
+
+Daily and Weekly Calendars on a space-filling cyclic curve:
 <p align="center">
   <img src="https://tauself.github.io/Screen%20Shot%202018-11-23%20at%2000.20.53.png">
 </p>
 
+Workflow routines involving recursion:
 <p align="center">
   <img src="https://tauself.github.io/Screen%20Shot%202018-11-15%20at%2021.13.42.png">
 </p>
