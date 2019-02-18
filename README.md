@@ -2,7 +2,7 @@
 
 ## Personal Executive Dashboards, Calendars, and Complex Numbers.
 
-Primes on a Hilbert curve:
+Primes on a Hilbert curve to 2^20:
 <p align="center">
   <img src="https://tauself.github.io/HilbertPrimes.png">
 </p>
