@@ -1,6 +1,11 @@
 # Mark Rosenberg
 
-## Personal Executive Dashboards, Calendars, and Complex Numbers.
+## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
+
+Trade:
+<p align="center">
+  <img src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
+</p>
 
 Primes on a Hilbert curve:
 <p align="center">
