@@ -7,6 +7,11 @@ Root 2:
   <img src="https://tauself.github.io/root2_052719_30.jpg">
 </p>
 
+Adding Vectors:
+<p align="center">
+  <img src="https://tauself.github.io/addVectors052319_3.jpg">
+</p>
+
 Primes on a Hilbert curve:
 <p align="center">
   <img src="https://tauself.github.io/HilbertPrimes.png">
