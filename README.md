@@ -2,6 +2,10 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Root 2:
+<p align="center">
+  <img src="https://tauself.github.io/root2_052719_30.jpg">
+</p>
 
 Primes on a Hilbert curve:
 <p align="center">
@@ -13,13 +17,9 @@ Daily and Weekly Calendars on a space-filling cyclic curve:
   <img src="https://tauself.github.io/Screen%20Shot%202018-11-23%20at%2000.20.53.png">
 </p>
 
-Workflow routines involving recursion:
+Workflow routine involving recursion:
 <p align="center">
   <img src="https://tauself.github.io/Screen%20Shot%202018-11-15%20at%2021.13.42.png">
-</p>
-
-<p align="center">
-  <img src="https://tauself.github.io/Screen%20Shot%202018-10-12%20at%2016.39.47.png">
 </p>
 
 7 days in a week
