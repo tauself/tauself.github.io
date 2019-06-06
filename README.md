@@ -12,6 +12,11 @@ Adding Vectors:
   <img src="https://tauself.github.io/addVectors052319_3.jpg">
 </p>
 
+Spiral Weekly Calendar:
+<p align="center">
+  <img src="https://tauself.github.io/spiralCalendarRegular4_051919_1.jpg">
+</p>
+
 Primes on a Hilbert curve:
 <p align="center">
   <img src="https://tauself.github.io/HilbertPrimes.png">
