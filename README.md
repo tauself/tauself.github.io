@@ -2,6 +2,11 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Piano Spectrogram:
+<p align="center">
+  <img src="https://tauself.github.io/Unknown2.png">
+</p>
+
 Root 2:
 <p align="center">
   <img src="https://tauself.github.io/root2_052719_30.jpg">
