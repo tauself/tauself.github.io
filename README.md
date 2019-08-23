@@ -27,38 +27,6 @@ Primes on a Hilbert curve:
   <img src="https://tauself.github.io/HilbertPrimes.png">
 </p>
 
-Daily and Weekly Calendars on a space-filling cyclic curve:
-<p align="center">
-  <img src="https://tauself.github.io/Screen%20Shot%202018-11-23%20at%2000.20.53.png">
-</p>
-
-Workflow routine involving recursion:
-<p align="center">
-  <img src="https://tauself.github.io/Screen%20Shot%202018-11-15%20at%2021.13.42.png">
-</p>
-
-7 days in a week
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-1-179972c44b.gif">
-</p>
-
-<p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Unknown-850.png">
-</p>
-
-<p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/Unknown-838.png">
-</p>
-
-Animations of configurations of bits:
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-5-8fc1f0169b.gif">
-</p>
-
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-5-f107764e22.gif">
-</p>
-
 Bandwidths of visible light and hearing range octaves:
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/bandwidths.png">
