@@ -12,7 +12,7 @@ Piano Spectrogram:
   <img src="https://tauself.github.io/Unknown2.png">
 </p>
 
-Root 2:
+Root 2: What's the ratio of 1s and 0s in the base 2 representation of root 2? Express ratio in base 2.
 <p align="center">
   <img src="https://tauself.github.io/root2_052719_30.jpg">
 </p>
@@ -24,7 +24,7 @@ Adding Vectors:
 
 Spiral Weekly Calendar:
 <p align="center">
-  <img src="https://tauself.github.io/spiralCalendarRegular4_051919_1.jpg">
+  <img src="https://tauself.github.io/spiralDesktop_090919_1.jpg">
 </p>
 
 Primes on a Hilbert curve:
