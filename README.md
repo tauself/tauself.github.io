@@ -4,7 +4,7 @@
 
 Trade Flow:
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
+  <img src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
 </p>
 
 Yearly Calendar:
