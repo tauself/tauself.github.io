@@ -9,10 +9,6 @@ Trade Flow:
 
 Yearly Calendar:
 <p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos2_091319_1.jpg">
-</p>
-
-<p align="center">
   <img src="https://tauself.github.io/yearlySpiralCalendar_090919_55.jpg">
 </p>
 
