@@ -9,7 +9,7 @@ Trade Flow:
 
 Yearly Calendar:
 <p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendar_090919_55.jpg">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos2_091519_3.jpg">
 </p>
 
 Piano Spectrogram:
