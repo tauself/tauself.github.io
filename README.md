@@ -12,6 +12,10 @@ Yearly Calendar:
   <img src="https://tauself.github.io/yearlySpiralCalendarPhotos2_091519_3.jpg">
 </p>
 
+<p align="center">
+  <img src="https://tauself.github.io/yearlySpiralCalendar_090919_55.jpg">
+</p>
+
 Piano Spectrogram:
 <p align="center">
   <img src="https://tauself.github.io/Unknown2.png">
