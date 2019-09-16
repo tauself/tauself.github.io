@@ -2,16 +2,6 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
-Trade Flow:
-<p align="center">
-  <img src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
-</p>
-
-Yearly Calendar:
-<p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos2_091519_3.jpg">
-</p>
-
 Piano Spectrogram:
 <p align="center">
   <img src="https://tauself.github.io/Unknown2.png">
