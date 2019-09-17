@@ -4,7 +4,7 @@
 
 Yearly Calendar
 <p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091619_1.jpg">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091719_4.jpg">
 </p>
 
 Piano Spectrogram:
