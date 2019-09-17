@@ -2,10 +2,7 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
-Yearly Calendar
-<p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091719_4.jpg">
-</p>
+
 
 Piano Spectrogram:
 <p align="center">
