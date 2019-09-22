@@ -4,6 +4,10 @@
 
 Yearly Calendar:
 <p align="center">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091719_17.jpg">
+</p>
+
+<p align="center">
   <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091919_2.jpg">
 </p>
 
