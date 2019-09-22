@@ -3,7 +3,7 @@
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
 
-Daily Calendar:
+Daily Clock:
 <p align="center">
   <img src="https://tauself.github.io/daily12hourSpiralCalendarPhotos_092219_4.jpg">
 </p>
