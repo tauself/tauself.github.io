@@ -5,11 +5,11 @@
 
 Daily Clock:
 <p align="center">
-  <img src="https://tauself.github.io/daily12hourSpiralCalendarPhotos_092219_4.jpg">
+  <img src="https://tauself.github.io/daily12hourSpiralCalendarPhotos_092319_4.jpg">
 </p>
 
 <p align="center">
-  <img src="https://tauself.github.io/dailySpiralCalendarPhotos_092219_4.jpg">
+  <img src="https://tauself.github.io/dailySpiralCalendarPhotos_092319_4.jpg">
 </p>
 
 Monthly Clock:
