@@ -2,6 +2,10 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Yearly Calendar:
+<p align="center">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_100119_2.jpg">
+</p>
 
 Daily Clock:
 <p align="center">
@@ -15,15 +19,6 @@ Daily Clock:
 Monthly Clock:
 <p align="center">
   <img src="https://tauself.github.io/monthlySpiralCalendarPhotos_092319_18.jpg">
-</p>
-
-Yearly Calendar:
-<p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091719_17.jpg">
-</p>
-
-<p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_091919_2.jpg">
 </p>
 
 Piano Spectrogram:
