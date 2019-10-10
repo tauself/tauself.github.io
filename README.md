@@ -4,7 +4,7 @@
 
 Yearly Calendar:
 <p align="center">
-  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_100119_2.jpg">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_101019_12.jpg">
 </p>
 
 Daily Clock:
