@@ -2,7 +2,12 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+
 Yearly Calendar:
+<p align="center">
+  <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_101819_8.jpg">
+</p>
+
 <p align="center">
   <img src="https://tauself.github.io/yearlySpiralCalendarPhotos_101019_12.jpg">
 </p>
