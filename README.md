@@ -3,6 +3,11 @@
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
 
+Flow Animation:
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
+</p>
+
 Yearly Calendar:
 <p align="center">
   <img src="https://tauself.github.io/4_yearlySpiralCalendarPhotos_101819_8.jpg">
