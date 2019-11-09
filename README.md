@@ -3,6 +3,11 @@
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
 
+Ancestor Tree:
+<p align="center">
+  <img src="https://tauself.github.io/GenealogyAncestorTreeBlank_110919_1.jpg">
+</p>
+
 Flow Animation:
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
