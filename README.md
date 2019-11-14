@@ -4,7 +4,7 @@
 
 Weekly Gear Wristwatch:
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8eb42f08c5ab.gif">
+  <img width="400" height="300" src="https://tauself.github.io/ezgif-5-8eb42f08c5ab.gif">
 </p>
 
 Ancestor Tree:
@@ -14,7 +14,7 @@ Ancestor Tree:
 
 Flow Animation:
 <p align="center">
-  <img width="300" height="300" src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
+  <img width="400" height="300" src="https://tauself.github.io/ezgif-1-f80c8a5383e6.gif">
 </p>
 
 Yearly Calendar:
