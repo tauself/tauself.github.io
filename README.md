@@ -2,6 +2,10 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Weekly Gear Wristwatch:
+<p align="center">
+  <img width="300" height="300" src="https://tauself.github.io/ezgif-5-8eb42f08c5ab.gif">
+</p>
 
 Ancestor Tree:
 <p align="center">
