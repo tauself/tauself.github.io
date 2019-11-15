@@ -2,6 +2,11 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Weekly Calendar Animation Clip:
+<p align="center">
+  <img width="400" height="300" src="https://tauself.github.io/ezgif-2-f924ca6670eb.gif">
+</p>
+
 Weekly Gear Wristwatch:
 <p align="center">
   <img width="400" height="300" src="https://tauself.github.io/ezgif-5-8eb42f08c5ab.gif">
