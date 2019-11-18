@@ -45,7 +45,11 @@ Monthly Clock:
   <img src="https://tauself.github.io/monthlySpiralCalendarPhotos_092319_18.jpg">
 </p>
 
-Piano Spectrogram:
+Piano Spectrograms:
+<p align="center">
+  <img src="https://tauself.github.io/Unknown-1270.png">
+</p>
+
 <p align="center">
   <img src="https://tauself.github.io/Unknown2.png">
 </p>
