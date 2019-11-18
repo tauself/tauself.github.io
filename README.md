@@ -47,7 +47,7 @@ Monthly Clock:
 
 Piano Spectrograms:
 <p align="center">
-  <img src="https://tauself.github.io/Unknown-1270.png">
+  <img src="https://tauself.github.io/Unknown-1270_2.png">
 </p>
 
 <p align="center">
