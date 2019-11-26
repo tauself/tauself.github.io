@@ -2,6 +2,11 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Hello iOS World:
+<p align="center">
+  <img src="https://tauself.github.io/Screen%20Shot%202019-11-25%20at%2023.49.07.png">
+</p>
+
 Weekly Calendar Animation Clip:
 <p align="center">
   <img width="400" height="300" src="https://tauself.github.io/ezgif-2-f924ca6670eb.gif">
@@ -99,7 +104,6 @@ By considering polynomial coefficients in the same space as the roots, the coeff
 <p align="center">
   <img width="300" height="300" src="https://tauself.github.io/Quartic.png">
 </p>
-
 
 
 
