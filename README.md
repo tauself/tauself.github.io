@@ -4,7 +4,7 @@
 
 Hello iOS World:
 <p align="center">
-  <img src="https://tauself.github.io/Screen%20Shot%202019-12-02%20at%2012.21.50.png">
+  <img src="https://tauself.github.io/Screen%20Shot%202019-12-02%20at%2013.21.50.png">
 </p>
 
 Weekly Calendar Animation Clip:
