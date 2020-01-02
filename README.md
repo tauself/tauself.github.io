@@ -4,7 +4,7 @@
 
 Happy New Year!:
 <p align="center">
-  <img width="400" height="300" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
+  <img width="400" height="400" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
 </p>
 
 Hello iOS World!:
