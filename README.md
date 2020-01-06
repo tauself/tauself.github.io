@@ -2,11 +2,6 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
-Where I see myself in five years:
-<p align="center">
-  <img width="800" height="800" src="https://tauself.github.io/fiveYears_010520_1.png">
-</p>
-
 Happy New Year!:
 <p align="center">
   <img width="400" height="400" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
