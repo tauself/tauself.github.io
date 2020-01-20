@@ -4,7 +4,7 @@
 
 Personal Photo Calendar App Screenshot:
 <p align="center">
-  <img src="https://tauself.github.io/IMG_2362.PNG.png">
+  <img src="https://tauself.github.io/IMG_2362.PNG">
 </p>
 
 Happy New Year!:
