@@ -2,6 +2,11 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Personal Photo Calendar App Screenshot:
+<p align="center">
+  <img src="https://tauself.github.io/IMG_2362.PNG.png">
+</p>
+
 Happy New Year!:
 <p align="center">
   <img width="400" height="400" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
