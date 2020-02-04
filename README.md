@@ -76,7 +76,7 @@ Root 2: What's the ratio of 1s and 0s in the base 2 representation of root 2? Ex
 
 Probably about 1/2:
 <p align="center">
-  <img src="https://tauself.github.io/Root2BitsAverage.png">
+  <img src="https://tauself.github.io/Root2BitMean2.png">
 </p>
 
 Adding Vectors:
