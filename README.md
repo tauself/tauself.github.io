@@ -74,6 +74,11 @@ Root 2: What's the ratio of 1s and 0s in the base 2 representation of root 2? Ex
   <img src="https://tauself.github.io/root2_052719_30.jpg">
 </p>
 
+Probably about 1/2:
+<p align="center">
+  <img src="https://tauself.github.io/Root2BitMean3.png">
+</p>
+
 Adding Vectors:
 <p align="center">
   <img src="https://tauself.github.io/addVectors052319_3.jpg">
