@@ -4,7 +4,7 @@
 
 Personal Photo Calendar App Screenshot: Displays photo on timestamp date within 1 second. Updates when the month changes.
 <p align="center">
-  <img src="https://tauself.github.io/IMG_2362.PNG">
+  <img src="https://tauself.github.io/IMG_2473.jpg">
 </p>
 
 Happy New Year!:
