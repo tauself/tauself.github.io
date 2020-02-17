@@ -2,7 +2,12 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
-Spiral Photo Calendar App Screenshot: Displays photo on timestamp date within 1 second. Updates when the month changes.
+Spiral Weekly Photo Calendar App Screenshot: Displays photo on timestamp date. Updates daily.
+<p align="center">
+  <img src="https://tauself.github.io/IMG_2619.PNG">
+</p>
+
+Spiral Yearly Photo Calendar App Screenshot: Displays photo on timestamp date. Updates monthly.
 <p align="center">
   <img src="https://tauself.github.io/IMG_2473.jpg">
 </p>
