@@ -39,7 +39,7 @@ Weekly Gear Wristwatch:
 
 Family Tree:
 <p align="center">
-  <img width="400" height="400" src="https://tauself.github.io/genealogyColorTree_051720_93.png">
+  <src="https://tauself.github.io/Screen Shot 2020-05-26 at 17.22.40.png">
 </p>
 
 Ancestor Tree:
