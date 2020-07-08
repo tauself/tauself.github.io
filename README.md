@@ -19,7 +19,7 @@ Spiral Yearly Photo Calendar App Screenshot: Displays photo on timestamp date. U
 
 Happy New Year!:
 <p align="center">
-  <img width="400" height="400" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
+  <img width="600" height="600" src="https://tauself.github.io/personalPhotoCalendar_createFromDirectory_123019_8.png">
 </p>
 
 Hello iOS World!:
@@ -38,6 +38,10 @@ Weekly Gear Wristwatch:
 </p>
 
 Family Tree:
+<p align="center">
+  <img src="https://tauself.github.io/genealogyTreeTemplate_070620_3.png">
+</p>
+
 <p align="center">
   <img src="https://tauself.github.io/Screen%20Shot%202020-05-26%20at%2017.22.40.png">
 </p>
