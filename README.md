@@ -2,6 +2,11 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Genealogy Tree:
+<p align="center">
+  <img src="https://tauself.github.io/genealogyTree060221_14.png">
+</p>
+
 Spiral Weekly Calendar:
 <p align="center">
   <img src="https://tauself.github.io/spiralCalendarCurrentEventsLabels_041820_1.png">
