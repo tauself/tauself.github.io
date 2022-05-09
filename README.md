@@ -2,6 +2,16 @@
 
 ## Personal Executive Dashboards, Calendars, Complex Numbers, and Symmetry.
 
+Genealogy Alternating Generations:
+<p align="center">
+  <img src="https://tauself.github.io/genealogyTreeTemplate_011822_2.png">
+</p>
+
+Genealogy Non-Alternating Generations:
+<p align="center">
+  <img src="https://tauself.github.io/genealogyTreeTemplate_011822_1.png">
+</p>
+
 Genealogy Tree:
 <p align="center">
   <img src="https://tauself.github.io/genealogyTree060221_14.png">
